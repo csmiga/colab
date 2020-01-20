@@ -1,0 +1,98 @@
+#-------------------------------------------------------------------------------
+# PYTHON STANDARDS LIBRARIES (not standard or batteries included libraries)
+
+coverage                 # measures code coverage, typically during test execution.
+                         # It uses the code analysis tools and tracing hooks
+                         # provided in the Python standard library to determine
+                         # which lines are executable, and which have been executed.
+mypy                     # Add type annotations to your Python programs, and use
+                         # to type check them. Mypy is essentially a Python linter
+                         # on steroids, and it can catch many programming errors by
+                         # analyzing your program, without actually having to run
+                         # it. Mypy has a powerful type system with features such as
+                         # type inference, gradual typing, generics and union types.
+pep8                     # check python code against some style conventions
+pydocstyle               # static analysis tool for checking compliance with python
+                         # docstring conventions. supports most of PEP 257
+pylint                   # static code analysis tool which looks for programming
+                         # errors, helps enforcing a coding standard.
+pytest                   # makes it easy to write small tests, yet scales to support
+                         # complex functional testing for applications.
+
+
+#-------------------------------------------------------------------------------
+# AI - ARTIFICIAL INTELLIGENCE LIBRARIES
+
+#audtorch==0.2.1         # pytorch audio support
+#dask                    # Dask is a flexible parallel computing library for
+                         # analytics. 
+#kaggle                  # platform for predictive modelling and analytics
+                         # competitions
+#matplotlib              # interactive graphing, scientific publishing, user
+                         # interface development and web application servers
+#nbval                   # onnx, pytest support
+#numpy                   # used as an efficient multi-dimensional container of
+                         # generic data.
+#onnx                    # open neural network exchange. an open format to represent
+                         # deep learning models
+#pandas                  # provides fast, flexible, and expressive data structures
+                         # designed to make working with structured (tabular,
+                         # multidimensional, potentially heterogeneous) and time
+                         # series data both easy and intuitive.
+#protobuf                # onnx support
+#pycuda==2019.1.1        # access nvidia's cuda parallel computation api
+#runipy                  # convert and run jupyter notebooks in cpython
+#scipy                   # SciPy (pronounced “Sigh Pie”) is open-source software for
+                         #  mathematics, science, and engineering. The SciPy
+                         # library depends on NumPy, which provides convenient and
+                         # fast N-dimensional array manipulation.
+#torch==1.1.0            # pytorch, ai framework
+#torchtext==0.3.1        # pytorch text support. generic data loaders, abstractions,
+                         # and iterators for text
+#torchvision==0.3.0      # pytorch visual support. common image transformations for
+                         # computer vision
+
+
+#-------------------------------------------------------------------------------
+# NON-FUNCTIONAL TEST LIBRARIES
+
+locustio==0.13.2         # Locust is a python utility for doing easy, distributed
+                         # load testing of a web site
+gevent==1.5a2            # gevent is a coroutine -based Python networking
+                         # library that uses greenlet to provide a high-level
+                         # synchronous API on top of the libev or libuv event
+                         # loop
+
+
+#-------------------------------------------------------------------------------
+# FUNCTIONAL TEST LIBRARIES
+
+selenium==3.141.0        # The selenium package is used to automate web browser
+                         # interaction from Python.
+behave==1.2.6            # Behavior-driven development (or BDD) is an agile
+                         # software development technique that encourages
+                         # collaboration between developers, QA and
+                         # non-technical or business participants in a software
+                         # project. behave uses tests written in a natural
+                         # language style, backed up by Python code.
+
+
+#-------------------------------------------------------------------------------
+# MISCELLANEOUS LIBRARIES
+
+m3u8==0.5.2              # Python m3u8 parser. The basic usage is to create a
+                         # playlist object from uri, file path or directly from 
+                         # a string.
+#paramiko                # a library for making SSH2 connections (client or server).
+                         # emphasis is on using SSH2 as an alternative to SSL
+                         # for making secure connections between python scripts. All
+                         # major ciphers and hash methods are supported. SFTP client
+                         # and server mode are both supported too.
+#sshtunnel               # pure python SSH tunnels. requires paramiko
+
+
+#-------------------------------------------------------------------------------
+# GITHUB REPOSITORIES
+
+# DASH MEDIA TOOLS (Transport Stream)
+# https://github.com/Dash-Industry-Forum/media-tools.git
