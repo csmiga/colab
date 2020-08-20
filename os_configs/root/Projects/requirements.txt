@@ -54,11 +54,19 @@ pytest                   # makes it easy to write small tests, yet scales to sup
 
 
 #-------------------------------------------------------------------------------
+# DJANGO PROJECT LIBRARIES
+
+Django==3.1              # Django is a high-level Python Web framework that
+                         # encourages rapid development and clean, pragmatic
+                         # design.
+
+
+#-------------------------------------------------------------------------------
 # NON-FUNCTIONAL TEST LIBRARIES
 
-locustio==0.13.2         # Locust is a python utility for doing easy, distributed
+locust==1.1.1            # Locust is a python utility for doing easy, distributed
                          # load testing of a web site
-gevent==1.5a2            # gevent is a coroutine -based Python networking
+gevent==1.5.0            # gevent is a coroutine -based Python networking
                          # library that uses greenlet to provide a high-level
                          # synchronous API on top of the libev or libuv event
                          # loop
@@ -83,12 +91,12 @@ behave==1.2.6            # Behavior-driven development (or BDD) is an agile
 m3u8==0.5.2              # Python m3u8 parser. The basic usage is to create a
                          # playlist object from uri, file path or directly from 
                          # a string.
-#paramiko                # a library for making SSH2 connections (client or server).
+paramiko                 # a library for making SSH2 connections (client or server).
                          # emphasis is on using SSH2 as an alternative to SSL
                          # for making secure connections between python scripts. All
                          # major ciphers and hash methods are supported. SFTP client
                          # and server mode are both supported too.
-#sshtunnel               # pure python SSH tunnels. requires paramiko
+sshtunnel               # pure python SSH tunnels. requires paramiko
 
 
 #-------------------------------------------------------------------------------
