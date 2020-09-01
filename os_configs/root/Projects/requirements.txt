@@ -83,6 +83,12 @@ behave==1.2.6            # Behavior-driven development (or BDD) is an agile
                          # non-technical or business participants in a software
                          # project. behave uses tests written in a natural
                          # language style, backed up by Python code.
+PyHamcrest==2.0.2        # a framework for writing matcher objects, allowing you
+                         # to declaratively define “match” rules. There are a
+                         # number of situations where matchers are invaluable,
+                         # such as UI validation, or data filtering, but it is
+                         # in the area of writing flexible tests that matchers
+                         # are most commonly used.
 
 
 #-------------------------------------------------------------------------------
