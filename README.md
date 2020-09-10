@@ -25,7 +25,7 @@ Codev is a Jupyter Notebook, cloud environment that includes CPU/GPU recognition
 
   * From the Google Drive, Colab Notebooks directory, create a Jupyter Notebook file by right mouse clicking over a blank area.
   * Select the Google Colaboratory application, and a new Jupyter Notebook file will open in the browser. Rename the file from "Untitled0.ipynb" to "codev-01.ipynb"
-  * Copy ["codev-01.ipynb"](https://github.com/csmiga/colab/blob/master/codev-01.ipynb) code to the new Jupyter Notebook and save.
+  * Copy ["codev-01.ipynb"](https://github.com/csmiga/codev/blob/master/codev-01.ipynb) code to the new Jupyter Notebook and save.
   * To save the file, go to the pull down menu and select "File" --> "Save"
   * Close the notebook by exiting the browser tab.
 
@@ -52,7 +52,7 @@ Codev is a Jupyter Notebook, cloud environment that includes CPU/GPU recognition
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-  [installation]: <https://github.com/csmiga/colab/blob/master/README.md#installation>
-  [creating_a_jupyter_notebook]: <https://github.com/csmiga/colab/blob/master/README.md#creating-a-jupyter-notebook>
-  [usage]: <https://github.com/csmiga/colab/blob/master/README.md#usage>
-  [notes]: <https://github.com/csmiga/colab/blob/master/README.md#notes>
+  [installation]: <https://github.com/csmiga/codev/blob/master/README.md#installation>
+  [creating_a_jupyter_notebook]: <https://github.com/csmiga/codev/blob/master/README.md#creating-a-jupyter-notebook>
+  [usage]: <https://github.com/csmiga/codev/blob/master/README.md#usage>
+  [notes]: <https://github.com/csmiga/codev/blob/master/README.md#notes>
