@@ -1,7 +1,7 @@
 ## Codev (Cloud Development Environment)
 [//]: # (<img src="https://colab.research.google.com/img/colab_favicon.ico" height="60" width="60">)
 
-Codev is a Jupyter Notebook, cloud development environment that includes CPU/GPU recognition, customized GIT, Google Drive connectivity, a "~/Projects" directory, Python virtual environments, Python Libraries, SSH terminal access via ngrok or Serveo, customized Vim, and more. The codev repository offers more than is expressed here, so if needed, fork this repository and customize to your requirements.
+Codev is a Python Jupyter Notebook, cloud development environment that includes CPU/GPU recognition, customized GIT, Google Drive connectivity, a "~/Projects" directory, Python virtual environments, Python Libraries, SSH terminal access via ngrok or Serveo, customized Vim, and more. The codev repository offers more than is expressed here, so if needed, fork this repository and customize to your requirements.
 
 *Cloud Development Environment + OSS = Opportunity*
 
