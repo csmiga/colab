@@ -56,4 +56,4 @@ Codev is a Python Jupyter Notebook, cloud development environment that includes 
   [creating_a_jupyter_notebook]: <https://github.com/csmiga/codev/blob/master/README.md#creating-a-jupyter-notebook>
   [usage]: <https://github.com/csmiga/codev/blob/master/README.md#usage>
   [notes]: <https://github.com/csmiga/codev/blob/master/README.md#notes>
-   
+  
