@@ -1,7 +1,7 @@
 ## Codev (Cloud Development Environment)
 [//]: # (<img src="https://colab.research.google.com/img/colab_favicon.ico" height="60" width="60">)
 
-Codev is a cloud development environment hosted in Google's Cloud Computing Services. Features of Codev include CPU/GPU recognition enabling intensive computation, customized GIT, Google Drive connectivity, a "~/Projects" directory, Python virtual environments, Python Libraries, SSH terminal access via ngrok or Serveo, customized Vim, and more. The Codev repository offers more than is expressed here, so fork this repository and customize to your requirements.
+Codev is a cloud development environment hosted in Google's Cloud Computing Services. Features of Codev include CPU/GPU recognition enabling intensive computation, customized GIT, Google Drive connectivity, a "~/Projects" directory, Bash, C, C++, Java, Node.js, Python, SQLite, SSH terminal access via ngrok, Packetriot, or Serveo, customized Vim, and more. The Codev repository offers more than is expressed here, so fork this repository and customize to your requirements.
 
 *Cloud Development Environment + OSS = Opportunity*
 
